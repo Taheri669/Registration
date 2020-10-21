@@ -88,7 +88,7 @@ namespace DotNetCore3Test.Controllers
             }
             else
             {
-                return RedirectToAction("index", "home");
+               // return RedirectToAction("index", "home");
             }
         }
     }
